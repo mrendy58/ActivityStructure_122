@@ -43,6 +43,6 @@ int main()
         cout << "\nDesa =" << mhs[i].alamat.desa;
         cout << "\nKota =" << mhs[i].alamat.kota;
         cout << "\nUmur =" << mhs[i].umur;
-    }
+    } 
 }
 
