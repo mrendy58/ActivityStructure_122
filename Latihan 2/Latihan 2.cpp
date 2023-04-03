@@ -19,7 +19,7 @@ int main()
 {
     mahasiswa mhs;  
 
-    cout << "Masukan NIM :";
+    cout << "Masukan NIM :"; 
     cin >> mhs.NIM;
     cout << "Masukan Nama :";
     cin >> mhs.nama;
