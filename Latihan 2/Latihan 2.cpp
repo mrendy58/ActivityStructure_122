@@ -35,7 +35,7 @@ int main()
     cout << "\nNama =" << mhs.nama;
     cout << "\nDesa =" << mhs.alamat.desa;
     cout << "\nKota =" << mhs.alamat.kota;
-    cout << "\nUmur =" << mhs.umur;
+    cout << "\nUmur =" << mhs.umur; 
 
 
 
