@@ -37,7 +37,7 @@ int main()
     cout << "\n\nNIM =" << mhs2.NIM;
     cout << "\nNama =" << mhs2.nama;
     cout << "\nAlamat =" << mhs2.alamat;
-    cout << "\nUmur =" << mhs2.umur;
+    cout << "\nUmur =" << mhs2.umur; 
 
 }
 
