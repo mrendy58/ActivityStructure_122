@@ -35,12 +35,9 @@ int main()
     cout << "\nUmur =" << mhs1.umur;
 
     cout << "\n\nNIM =" << mhs2.NIM;
-    cout << "\n\nNama =" << mhs2.nama;
-    cout << "\n\nAlamat =" << mhs2.alamat;
-    cout << "\n\nUmur =" << mhs2.umur;
-
-
-
+    cout << "\nNama =" << mhs2.nama;
+    cout << "\nAlamat =" << mhs2.alamat;
+    cout << "\nUmur =" << mhs2.umur;
 
 }
 
